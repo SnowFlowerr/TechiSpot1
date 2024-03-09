@@ -2,7 +2,7 @@ let data = [
   {
     name: "Gaurav Pandey",
     pro: "./Team_Profile_Pic/Gaurav_Sir.jpeg",
-    about: "ADMIN (Creator)",
+    about: "ADMIN (Mentor)",
     linkedin: "https://www.linkedin.com/in/gaurav-pandey-00b75126a/",
     git: "https://github.com/GauravPandey123webdeveloper?tab=repositories",
   },
