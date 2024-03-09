@@ -129,7 +129,7 @@
         height: 33vh;
     }
     .user{
-        width: 27vw;
+        width: 32.5vw;
         margin-left: 1vw;
         background:url("https://cdn-icons-png.flaticon.com/512/1077/1077114.png") no-repeat scroll;
         padding-left: 4vw;
@@ -138,7 +138,7 @@
         background-position-x: 5px;
     }
     .dob{
-        width: 27vw;
+        width: 32.5vw;
         margin-left: 1vw;
         background:url("https://cdn-icons-png.flaticon.com/128/6697/6697479.png") no-repeat scroll;
         padding-left: 4vw;
@@ -147,7 +147,7 @@
         background-position-x: 5px;
     }
     .phone{
-        width: 27vw;
+        width: 32.5vw;
         margin-left: 1vw;
         background:url("https://png.pngtree.com/png-clipart/20210311/original/pngtree-phone-icon-in-circle-black-png-image_5994540.png") no-repeat scroll ;
         padding-left: 4vw;
@@ -156,7 +156,7 @@
         background-position-x: 5px;
     }
     .email{
-        width: 27vw;
+        width: 32.5vw;
         margin-left: 1vw;
         background:url("https://www.shareicon.net/data/128x128/2015/12/02/681171_email_512x512.png") no-repeat scroll ;
         padding-left: 4vw;
@@ -165,7 +165,7 @@
         background-position-x: 5px;
     }
     .pass{
-        width: 27vw;
+        width: 32.5vw;
         margin-left: 1vw;
         background:url("https://www.shareicon.net/data/128x128/2015/11/10/669695_locked_512x512.png") no-repeat scroll ;
         padding-left: 4vw;
@@ -174,7 +174,7 @@
         background-position-x: 5px;
     }
     .cpass{
-        width: 27vw;
+        width: 32.5vw;
         margin-left: 1vw;
         background:url("https://www.shareicon.net/data/128x128/2015/11/10/669695_locked_512x512.png") no-repeat scroll ;
         padding-left: 4vw;
@@ -203,7 +203,7 @@
         height: 33vh;
     }
     .user{
-        width: 47vw;
+        width: 55vw;
         margin-left: 2vw;
         background:url("https://cdn-icons-png.flaticon.com/512/1077/1077114.png") no-repeat scroll;
         padding-left: 7vw;
@@ -212,7 +212,7 @@
         background-position-x: 5px;
     }
     .dob{
-        width: 47vw;
+        width: 55vw;
         margin-left: 2vw;
         background:url("https://cdn-icons-png.flaticon.com/128/6697/6697479.png") no-repeat scroll ;
         padding-left: 7vw;
@@ -221,7 +221,7 @@
         background-position-x: 5px;
     }
     .phone{
-        width: 47vw;
+        width: 55vw;
         margin-left: 2vw;
         background:url("https://png.pngtree.com/png-clipart/20210311/original/pngtree-phone-icon-in-circle-black-png-image_5994540.png") no-repeat scroll ;
         padding-left: 7vw;
@@ -230,7 +230,7 @@
         background-position-x: 5px;
     }
     .email{
-        width: 46vw;
+        width: 55vw;
         margin-left: 2vw;
         background:url("https://www.shareicon.net/data/128x128/2015/12/02/681171_email_512x512.png") no-repeat scroll ;
         padding-left: 7vw;
@@ -239,7 +239,7 @@
         background-position-x: 5px;
     }
     .pass{
-        width: 47vw;
+        width: 55vw;
         margin-left: 2vw;
         background:url("https://www.shareicon.net/data/128x128/2015/11/10/669695_locked_512x512.png") no-repeat scroll ;
         padding-left: 7vw;
@@ -248,7 +248,7 @@
         background-position-x: 5px;
     }
     .cpass{
-        width: 47vw;
+        width: 55vw;
         margin-left: 2vw;
         background:url("https://www.shareicon.net/data/128x128/2015/11/10/669695_locked_512x512.png") no-repeat scroll ;
         padding-left: 7vw;
@@ -278,7 +278,7 @@
         height: 33vh;
     }
     .user{
-        width: 76vw;
+        width: 85vw;
         margin-left: 2vw;
         background:url("https://cdn-icons-png.flaticon.com/512/1077/1077114.png") no-repeat scroll;
         padding-left: 8vw;
@@ -287,7 +287,7 @@
         background-position-x: 5px;
     }
     .dob{
-        width: 76vw;
+        width: 85vw;
         margin-left: 2vw;
         background:url("https://cdn-icons-png.flaticon.com/128/6697/6697479.png") no-repeat scroll ;
         padding-left: 8vw;
@@ -296,7 +296,7 @@
         background-position-x: 5px;
     }
     .phone{
-        width: 76vw;
+        width: 85vw;
         margin-left: 2vw;
         background:url("https://png.pngtree.com/png-clipart/20210311/original/pngtree-phone-icon-in-circle-black-png-image_5994540.png") no-repeat scroll ;
         padding-left: 8vw;
@@ -305,7 +305,7 @@
         background-position-x: 5px;
     }
     .email{
-        width: 75vw;
+        width: 85vw;
         margin-left: 2vw;
         background:url("https://www.shareicon.net/data/128x128/2015/12/02/681171_email_512x512.png") no-repeat scroll ;
         padding-left: 8vw;
@@ -314,7 +314,7 @@
         background-position-x: 5px;
     }
     .pass{
-        width: 75vw;
+        width: 85vw;
         margin-left: 2vw;
         background:url("https://www.shareicon.net/data/128x128/2015/11/10/669695_locked_512x512.png") no-repeat scroll ;
         padding-left: 8vw;
@@ -323,7 +323,7 @@
         background-position-x: 5px;
     }
     .cpass{
-        width: 75vw;
+        width: 85vw;
         margin-left: 2vw;
         background:url("https://www.shareicon.net/data/128x128/2015/11/10/669695_locked_512x512.png") no-repeat scroll ;
         padding-left: 8vw;

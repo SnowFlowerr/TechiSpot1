@@ -59,7 +59,7 @@ export default function Signup() {
                             <button className={styles.buttn}>Sign Up</button>
                         </div>
                         <div className={styles.signin}>
-                            Have an account? <Link to='/Signin' className={styles.snin}> Sign In</Link>
+                            Have an account? <Link to='/Sign' className={styles.snin}> Sign In</Link>
                         </div>
                     </form>
                 </div>
@@ -81,7 +81,7 @@ export default function Signup() {
                             <button type='submit' className={styles.buttn}>Next</button>
                         </div>
                         <div className={styles.signin}>
-                            Have an account? <Link to='/signin' className={styles.snin}> Sign In</Link>
+                            Have an account? <Link to='/sign' className={styles.snin}> Sign In</Link>
                         </div>
                     </form>
                 </div>
