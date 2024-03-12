@@ -2,14 +2,14 @@ let data = [
   {
     name: "Gaurav Pandey",
     pro: "./Team_Profile_Pic/Gaurav_Sir.jpeg",
-    about: "ADMIN (Mentor)",
+    about: "Mentor",
     linkedin: "https://www.linkedin.com/in/gaurav-pandey-00b75126a/",
     git: "https://github.com/GauravPandey123webdeveloper?tab=repositories",
   },
   {
     name: "Bhudeo Krit",
     pro: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Windows_10_Default_Profile_Picture.svg/2048px-Windows_10_Default_Profile_Picture.svg.png",
-    about: "Front End Developer",
+    about: "Front End Developer (Admin)",
     linkedin: "https://www.linkedin.com/in/bhudeo-krit-5aa154292/",
     git: "https://github.com/SnowFlowerr",
   },
